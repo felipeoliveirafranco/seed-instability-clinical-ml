@@ -16,7 +16,7 @@ This repository contains the supplementary data for the paper:
 This repository contains the dataset and the code used for the analyses. 
 
 *   **`code.ipynb`**: otebook containing the code used for the analyses.
-*   **`general.xlsx`**: The clinical database.
+*   **`dataset.xlsx`**: The clinical database.
 
 <br>
 

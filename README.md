@@ -13,8 +13,6 @@ This repository contains the supplementary for the paper:
 
 ## Repository Content
 
-This repository contains the code used for the analyses. 
-
 *   **`code.ipynb`**: notebook containing the code used for the analyses.
 
 <br>
@@ -23,4 +21,4 @@ This repository contains the code used for the analyses.
 
 If you use this code in your research, please cite the original paper:
 
-> *Full citation to be provided upon publication*
+> *Full citation to be provided upon publication.*
